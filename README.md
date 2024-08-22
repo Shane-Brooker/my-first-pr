@@ -64,7 +64,7 @@ git remote -v
 
 ### Why are pull requests called "Pull Requests"? (correct answer)
 
-<!--TODO: This answer is SO wrong, I think we need to fix it! -->
+Pull requests propose a change to be checked by someone and pull your contributions and merge into their branch.
 
 ### Create a local branch
 
